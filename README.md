@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vanshika2021
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking to collaborate on ...
+-  I’m looking to collaborate on solving real world problems using machine learning
 - 📫 How to reach me ... email id - agrawalvanshika021@gmail.com
 
 <!---
